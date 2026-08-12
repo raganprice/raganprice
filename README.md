@@ -19,8 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
 [![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
-
-[View my Resume](https://github.com/raganprice/raganprice/blob/main/assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/raganprice/raganprice/main/resume)
 
 ## Programming Languages
 
