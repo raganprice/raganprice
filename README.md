@@ -10,7 +10,7 @@
 
 🎓 I am currently earning my Master of Science in Business Analytics at Wake Forest University (go Deacs!). Through analytical coursework and projects, I have gained experience transforming complex data into impactful tools.
   
-📊 I graduated with a Bachelors of Science in Computer Science from Wake Forest University. I am skilled in building reproducible data pipelines and communicating findings to guide decision-making. I have experience coding in multiple programming languages, understanding computer systems, and managing databases. As a motivated and creative thinker, I enjoy solving problems and collaborating with both technical and non-technical teams.
+📊 I graduated with a Bachelor of Science in Computer Science from Wake Forest University. I am skilled in building reproducible data pipelines and communicating findings to guide decision-making. I have experience coding in multiple programming languages, understanding computer systems, and managing databases. As a motivated and creative thinker, I enjoy solving problems and collaborating with both technical and non-technical teams.
   
 👩‍💻 I'm interested in learning about how AI and machine learning can be utilized by analysts to solve real-world problems.
 
