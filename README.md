@@ -15,7 +15,14 @@
 👩‍💻 I'm interested in learning about AI and machine learning can be utilized by analysts to solve real-world problems.
 
 
-## Languages
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
+[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
+
+[View my Resume](https://github.com/raganprice/raganprice/blob/main/assets/resume.pdf)
+
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-C3B1E1?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7A8B8?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,25 +36,9 @@
 ![React](https://img.shields.io/badge/React-C3B1E1?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F7A8B8?style=for-the-badge&logo=git&logoColor=white)
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
-[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
-
-[View my Resume](https://github.com/raganprice/raganprice/blob/main/assets/resume.pdf)
-
-## A quick hello
+## A quick hello!
 
 <!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
-
-## My Research Experience 
-
- **[task-tech-exposure](https://github.com/armouton/task-tech-exposure)**
-
-- Contributed to a Python package for structured downloads via the command line (pip-installable, plus support for other package sources)
-- Tested functionality against Zenodo to verify reliable dataset retrieval
-- Analyzed AI exposure trends across technology occupations using SBERT-based similarity scoring
-
 
 ## Projects
 
@@ -55,8 +46,17 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](https://github.com/raganprice/repo-name) | One-line description of what it does | Python, SQL |
-| [Project Name](https://github.com/raganprice/repo-name) | One-line description of what it does | React |
+| [Data Analysis: Soccer Performance ](https://github.com/raganprice/repo-name) | One-line description of what it does | Excel |
+
+## My Research Experience 
+
+ **[task-tech-exposure](https://github.com/armouton/task-tech-exposure)**
+ 
+As an undergrad research assistant for the Wake Forest Economics Department, I
+- Contributed to a Python package for structured downloads via the command line (pip-installable, plus support for other package sources)
+- Tested functionality against Zenodo to verify reliable dataset retrieval
+- Analyzed AI exposure trends across technology occupations using SBERT-based similarity scoring
+
 
 <div align="center">
 
