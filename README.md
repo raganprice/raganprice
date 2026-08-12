@@ -47,7 +47,7 @@
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| **O\*NET Task Exposure** | Python package to analyze AI exposure trends across technology occupations using SBERT-based similarity scoring (WFU undergrad research). | `Python` `Zenodo` `SBERT` `PyPI` | [🔗 Repo](https://github.com/armouton/task-tech-exposure) |
+| **O\*NET Task Exposure** | Python package to analyze AI exposure trends across technology occupations using SBERT-based similarity scoring (WFU undergrad research). | `Python` `Zenodo` `SBERT` `PyPI` | [task-tech-exposure](https://github.com/armouton/task-tech-exposure) |
 | **Soccer Performance Analytics** | Data visualization and hypothesis testing across performance variables. | `Excel` | [🔗 Repo](https://github.com/raganprice/repo-name) |
 
 <div align="center">
