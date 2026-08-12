@@ -12,7 +12,7 @@
   
 📊 I graduated with a Bachelors of Science in Computer Science from Wake Forest University. I am skilled in building reproducible data pipelines and communicating findings to guide decision-making. I have experience coding in multiple programming languages, understanding computer systems, and managing databases. As a motivated and creative thinker, I enjoy solving problems and collaborating with both technical and non-technical teams.
   
-👩‍💻 I'm interested in learning about AI and machine learning can be utilized by analysts to solve real-world problems.
+👩‍💻 I'm interested in learning about how AI and machine learning can be utilized by analysts to solve real-world problems.
 
 
 ## Connect With Me
@@ -41,22 +41,17 @@
 
 <!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 
-## Projects
+## Featured Projects
 
 <!-- Add your own projects below. One row per project keeps it clean and scannable. -->
 
-| Project | Description | Tech |
+| O*NET Task Exposure | Data Analysis: Soccer Performance |
 |---|---|---|
-| [Data Analysis: Soccer Performance ](https://github.com/raganprice/repo-name) | One-line description of what it does | Excel |
+| Python package to analyze AI exposure trends across technology occupations using SBERT-based similarity scoring (WFU undergrad research). | Rules-based suspicious activity detection system using explainable risk logic. | Predictive analytics dashboard for delivery delays and operational risk. |
+| `Python` `Zenodo` `SBERT` `PyPI` | `Python` `Streamlit` `Fraud Logic` | `Python` `ML` `Streamlit` |
+| [Repo](https://github.com/armouton/task-tech-exposure) | [🔗 Repo](https://github.com/raganprice/repo-name) | [🔗 Repo](https://github.com/raganprice/repo-name) |
 
-## My Research Experience 
-
- **[task-tech-exposure](https://github.com/armouton/task-tech-exposure)**
- 
-As an undergrad research assistant for the Wake Forest Economics Department, I
-- Contributed to a Python package for structured downloads via the command line (pip-installable, plus support for other package sources)
-- Tested functionality against Zenodo to verify reliable dataset retrieval
-- Analyzed AI exposure trends across technology occupations using SBERT-based similarity scoring
+![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark&quote=famous-quotes)
 
 
 <div align="center">
