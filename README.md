@@ -19,21 +19,23 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
 [![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
-[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/raganprice/raganprice/main/resume)
+[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_resume)
 
-## Programming Languages
+## Tech Stack
 
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-C3B1E1?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7A8B8?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-C3B1E1?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F7A8B8?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Software & Tools
-
+### Software & Tools
 ![Excel](https://img.shields.io/badge/Excel-C3B1E1?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F7A8B8?style=for-the-badge&logo=jupyter&logoColor=white)
 ![React](https://img.shields.io/badge/React-C3B1E1?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F7A8B8?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C3B1E1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-F7A8B8?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## A quick hello!
 
