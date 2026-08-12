@@ -8,25 +8,28 @@
 
 ## ✨ About Me
 
-- I am currently earning my Master of Science in Business Analytics at Wake Forest University (go Deacs!). Through analytical coursework and projects, I have gained experience transforming complex data into impactful tools.
--  
- 🔬 Exploring research-oriented careers in **healthcare** and **music/radio research**
-- 📻 Former **IT Director, Wake Radio** — built backend for a mobile streaming app, kept broadcast systems running
-- 🤝 Former **Rush Chair, Alpha Phi Omega (Kappa Theta Chapter)** — a service-based organization
-- 🌱 Currently working through statistics, probability & regression coursework (BAN-6001-B)
+🎓 I am currently earning my Master of Science in Business Analytics at Wake Forest University (go Deacs!). Through analytical coursework and projects, I have gained experience transforming complex data into impactful tools.
+  
+📊 I graduated with a Bachelors of Science in Computer Science from Wake Forest University. I am skilled in building reproducible data pipelines and communicating findings to guide decision-making. I have experience coding in multiple programming languages, understanding computer systems, and managing databases. As a motivated and creative thinker, I enjoy solving problems and collaborating with both technical and non-technical teams.
+  
+👩‍💻 I'm interested in learning about AI and machine learning can be utilized by analysts to solve real-world problems.
 
-## Skills & Stacks
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-C3B1E1?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7A8B8?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-C3B1E1?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F7A8B8?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Software & Tools
+
 ![Excel](https://img.shields.io/badge/Excel-C3B1E1?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F7A8B8?style=for-the-badge&logo=jupyter&logoColor=white)
 ![React](https://img.shields.io/badge/React-C3B1E1?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F7A8B8?style=for-the-badge&logo=git&logoColor=white)
 
-## Links
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
 [![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
@@ -37,31 +40,16 @@
 
 <!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 
-## Languages
+## My Research Experience 
 
-<div align="center">
+ **[task-tech-exposure](https://github.com/armouton/task-tech-exposure)**
 
-![Metrics](https://metrics.lecoq.io/raganprice?template=classic)
+- Contributed to a Python package for structured downloads via the command line (pip-installable, plus support for other package sources)
+- Tested functionality against Zenodo to verify reliable dataset retrieval
+- Analyzed AI exposure trends across technology occupations using SBERT-based similarity scoring
 
-</div>
 
-<details>
-<summary>📻 More about my radio work</summary>
-<br>
-
-Served as IT Director for Wake Radio, a 100+ member club — supervised broadcast equipment, built the backend for a mobile streaming app so listeners could tune in beyond the website, and kept things running behind the scenes.
-
-</details>
-
-<details>
-<summary>🤝 More about my APO work</summary>
-<br>
-
-Rush Chair for Alpha Phi Omega's Kappa Theta Chapter, a service-centered organization — led the chapter's first fall rush at Wake Forest.
-
-</details>
-
-## 💻 Projects
+## Projects
 
 <!-- Add your own projects below. One row per project keeps it clean and scannable. -->
 
