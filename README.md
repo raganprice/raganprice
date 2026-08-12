@@ -14,6 +14,9 @@
   
 👩‍💻 I'm interested in learning about how AI and machine learning can be utilized by analysts to solve real-world problems.
 
+## A quick hello!
+
+<!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 
 ## 🌸 Connect With Me
 
@@ -36,10 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-B5EAD7?style=for-the-badge&logo=git&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFF5BA?style=for-the-badge&logo=mysql&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFDAC1?style=for-the-badge&logo=streamlit&logoColor=black)
-
-## A quick hello!
-
-<!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 
 ## 💫 Featured Projects
 
