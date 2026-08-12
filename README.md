@@ -18,8 +18,8 @@
 ## 🌸 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
-[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
-[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_Resume)
+[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pricr23@wfu.edu)
+[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=black)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_Resume)
 
 ## 💻 Tech Stack
 
