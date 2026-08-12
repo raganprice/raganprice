@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=raganprice&theme=discord&no-frame=true&row=1&column=6)
+![Metrics](https://metrics.lecoq.io/raganprice?template=classic)
 
 </div>
 
