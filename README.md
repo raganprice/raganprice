@@ -15,13 +15,13 @@
 👩‍💻 I'm interested in learning about how AI and machine learning can be utilized by analysts to solve real-world problems.
 
 
-## Connect With Me
+## 🌸 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
 [![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pricr23@wfu.edu)
 [![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_Resume)
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-C3B1E1?style=for-the-badge&logo=python&logoColor=white)
@@ -41,18 +41,14 @@
 
 <!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 
-## Featured Projects
+## 💫 Featured Projects
 
 <!-- Add your own projects below. One row per project keeps it clean and scannable. -->
 
-| O*NET Task Exposure | Data Analysis: Soccer Performance |
-|---|---|---|
-| Python package to analyze AI exposure trends across technology occupations using SBERT-based similarity scoring (WFU undergrad research). | Rules-based suspicious activity detection system using explainable risk logic. | Predictive analytics dashboard for delivery delays and operational risk. |
-| `Python` `Zenodo` `SBERT` `PyPI` | `Python` `Streamlit` `Fraud Logic` | `Python` `ML` `Streamlit` |
-| [Repo](https://github.com/armouton/task-tech-exposure) | [🔗 Repo](https://github.com/raganprice/repo-name) | [🔗 Repo](https://github.com/raganprice/repo-name) |
-
-![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark&quote=famous-quotes)
-
+| Project | Description | Tech | Repo |
+|---|---|---|---|
+| **O\*NET Task Exposure** | Python package to analyze AI exposure trends across technology occupations using SBERT-based similarity scoring (WFU undergrad research). | `Python` `Zenodo` `SBERT` `PyPI` | [🔗 Repo](https://github.com/armouton/task-tech-exposure) |
+| **Soccer Performance Analytics** | Data visualization and hypothesis testing across performance variables. | `Excel` | [🔗 Repo](https://github.com/raganprice/repo-name) |
 
 <div align="center">
 
