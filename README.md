@@ -24,9 +24,9 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-AEC6CF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-89CFF0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B5EAD7?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-AEC6CF?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-B5EAD7?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Software & Tools
