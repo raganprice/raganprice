@@ -24,18 +24,18 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-89CFF0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B5EAD7?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-B5EAD7?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-89CFF0?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-B5EAD7?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-B5EAD7?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### Software & Tools
-![Excel](https://img.shields.io/badge/Excel-C3B1E1?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F7A8B8?style=for-the-badge&logo=jupyter&logoColor=white)
-![React](https://img.shields.io/badge/React-89CFF0?style=for-the-badge&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B5EAD7?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFF5BA?style=for-the-badge&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FFDAC1?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-C3B1E1?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F7A8B8?style=for-the-badge&logo=jupyter&logoColor=black)
+![React](https://img.shields.io/badge/React-89CFF0?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-B5EAD7?style=for-the-badge&logo=git&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFF5BA?style=for-the-badge&logo=mysql&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FFDAC1?style=for-the-badge&logo=streamlit&logoColor=black)
 
 ## A quick hello!
 
