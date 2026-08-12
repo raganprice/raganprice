@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F7A8B8,100:C3B1E1&height=200&section=header&text=Hi,%20I'm%20Ragan!&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C3B1E1&center=true&vCenter=true&width=500&lines=Grad+student+%7C+CS+%2B+Business+Analytics;Into+healthcare+%26+music%2Fradio+research;Building+things%2C+one+repo+at+a+time+%E2%9C%A8)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C3B1E1&center=true&vCenter=true&width=500&lines=Grad+student+%7C+CS+%2B+Business+Analytics;Building+things%2C+one+repo+at+a+time+%E2%9C%A8)]()
 
 </div>
 
