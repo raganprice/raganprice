@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raganprice&layout=compact&theme=merko&hide_border=true&title_color=C3B1E1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=raganprice&theme=discord&no-frame=true&row=1&column=6)
 
 </div>
 
