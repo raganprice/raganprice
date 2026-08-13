@@ -1,8 +1,4 @@
 
-
-
-
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F7A8B8,100:C3B1E1&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn)
