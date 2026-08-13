@@ -19,18 +19,18 @@
   
 👩‍💻 I'm interested in learning about how AI and machine learning can be utilized by analysts to solve real-world problems.
 
+## 🌸 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
+[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pricr23@wfu.edu)
+[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=black)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_Resume)
+
 ## A quick hello!
 
 <!-- Paste your uploaded video link here after dragging it into the GitHub web editor -->
 https://github.com/user-attachments/assets/4de437c6-2685-42d1-be73-761c9ef6581b
 
 
-
-## 🌸 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragan-price/)
-[![Gmail](https://img.shields.io/badge/Gmail-F7A8B8?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pricr23@wfu.edu)
-[![Resume](https://img.shields.io/badge/Resume-C3B1E1?style=for-the-badge&logo=googledocs&logoColor=black)](https://raw.githubusercontent.com/raganprice/raganprice/main/Ragan_Price_Resume)
 
 ## 💻 Tech Stack
 
